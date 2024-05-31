@@ -1,7 +1,7 @@
 # Deck-Ify
 ![Deck-Ify Banner](https://cdn.modrinth.com/data/cached_images/6b21305accc21cf948ad3dfe7bd90d858fcbb351.webp)
 [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/project/deck-ify) 
-[<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/Legacy-Union/Re-Console/releases) [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net/)
+[<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/omo50/Deck-Ify/releases/new)  [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net/)
 [<img alt="kofi-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg">](https://ko-fi.com/omoso)
 
 **Deck-Ify is a fast, lightweight and performant modpack made for the Steam Deck running on the Fabric Loader.**
